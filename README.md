@@ -36,7 +36,7 @@ Cuando se detecta un incendio, muestra un mensaje de alarma en el display LCD.<b
 Se deberá agregar dos leds y darle una funcionalidad de su elección, acorde al
 proyecto previamente detallado.<br>
 # Link al proyecto en tinkercad
-- https://www.tinkercad.com/things/gFWMBoG0SMY
+- [https://www.tinkercad.com/things/gFWMBoG0SMY](https://www.tinkercad.com/things/gFWMBoG0SMY)https://www.tinkercad.com/things/gFWMBoG0SMY
 
 
 
