@@ -14,7 +14,6 @@ float temperature = 0;
 Servo servo;
 int pin_sensor = 11;
 IRrecv irrecv(pin_sensor);
-decode_results resultado;
 int cont = 0;
 String season;
 bool flag_display = true;
