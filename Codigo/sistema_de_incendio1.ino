@@ -110,12 +110,12 @@ String detect_seasons_of_the_year(float temperature){
   String season;
   if(temperature < 9){ //Segun la temperatura es la estacion del año
     season = "Winter";
-  } else if(temperature > 16 and temperature < 27){
-    season = "Spring";
-  } else if(temperature > 28){
-   	season = "Summer"; 
-  } else if (temperature > 8 and temperature < 17){
+  }else if (temperature < 17){
    	season = "Autumn"; 
+  } else if(temperature < 27){
+    season = "Spring";
+  } else{
+   	season = "Summer"; 
   }
     
   return season; 
